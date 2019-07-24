@@ -1,1 +1,0 @@
-https://stackoverflow.com/questions/29217209/is-it-ok-to-use-http-rest-api-for-chat-application
